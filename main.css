@@ -34,6 +34,7 @@
     border: 1px solid black;
     text-align: center;
     box-shadow: 5px 5px grey;
+    cursor: pointer;
 }
 
 .bird {
@@ -66,6 +67,7 @@
     width: 60%;
     background-color: aliceblue;
     font-size: 2em;
+    cursor: pointer;
 }
 
 .pipe {
